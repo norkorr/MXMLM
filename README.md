@@ -1,5 +1,9 @@
 # MunchXMLMuncher 2.0.3
 Developed by research assistant Loke Sjølie for the University of Oslo
+
+[![DOI](https://zenodo.org/badge/587295065.svg)](https://zenodo.org/badge/latestdoi/587295065)
+
+
 ## Changelog
 ### Version 2 release
 1. Cleaned up the script and converted it to regular .py
