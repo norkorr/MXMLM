@@ -842,16 +842,6 @@ print(f"Wrote {pathToOutputData}MXMLM_Output_Combined.json (unified dataset incl
 ## Addon for geonames
 srcfile = open(pathToOutputData+"MXMLM_Output_Combined.json")
 data = json.load(srcfile)
-for item in data:
-    place = data[item]['place']
-    if place in geonamesDict:
-        data[item]['placeID'] = geonamesDict[place]['id']
-        data[item]['lat'] = geonamesDict[place]['latitude']
-        data[item]['lon'] = geonamesDict[place]['longitude']
-    else:
-        data[item]['placeID'] = "N/A"
-        data[item]['lat'] = "N/A"
-        data[item]['lon'] = "N/A"
 ## Required for geonames. Could be done as an API call if you feel like changing it.
 dfGN = pd.read_csv("geonames_emunch.csv")
 geonamesDict = collections.defaultdict(dict)
@@ -863,6 +853,16 @@ for idx,row in dfGN.iterrows():
     geonamesDict[place]['id'] = ident
     geonamesDict[place]['latitude'] = lat
     geonamesDict[place]['longitude'] = lon
+for item in data:
+    place = data[item]['place']
+    if place in geonamesDict:
+        data[item]['placeID'] = geonamesDict[place]['id']
+        data[item]['lat'] = geonamesDict[place]['latitude']
+        data[item]['lon'] = geonamesDict[place]['longitude']
+    else:
+        data[item]['placeID'] = "N/A"
+        data[item]['lat'] = "N/A"
+        data[item]['lon'] = "N/A"
 dumped_geonames = json.dumps(data, indent=4)
 
 dfCombo = pd.read_json(dumped_geonames, orient="index")
