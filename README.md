@@ -22,10 +22,12 @@ Developed by research assistant Loke Sjølie for the University of Oslo
 #### 2.0.3
 1. Script now outputs to a folder called "output" with subfolders CMIF, datasets
 2. Minor miscellaneous cleanup (mostly non-used code, old comments)
-#### 2.0.4 (current)
+#### 2.0.4
 1. Source attribute is now prefixed with *#*
 2. Second pass to remove newlines from prettify
 3. Various bugfixes for running the script without xml-filer
+#### 2.0.5 (current)
+1. GeoNames add-on included. Requires geonames_emunch.csv. Could be done by an API call in future.
 
 ### Version 2 beta
 1. Extreme overall performance increase
