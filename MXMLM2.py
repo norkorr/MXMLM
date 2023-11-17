@@ -839,6 +839,33 @@ with open(pathToOutputData+"MXMLM_Output_Combined.json", "w") as outfile:
 print(f"Wrote {pathToOutputData}MXMLM_Output_Combined.json (unified dataset including optional files)")
 
 # CMIF Production Core
+## Addon for geonames
+srcfile = open(pathToOutputData+"MXMLM_Output_Combined.json")
+data = json.load(srcfile)
+for item in data:
+    place = data[item]['place']
+    if place in geonamesDict:
+        data[item]['placeID'] = geonamesDict[place]['id']
+        data[item]['lat'] = geonamesDict[place]['latitude']
+        data[item]['lon'] = geonamesDict[place]['longitude']
+    else:
+        data[item]['placeID'] = "N/A"
+        data[item]['lat'] = "N/A"
+        data[item]['lon'] = "N/A"
+## Required for geonames. Could be done as an API call if you feel like changing it.
+dfGN = pd.read_csv("geonames_emunch.csv")
+geonamesDict = collections.defaultdict(dict)
+for idx,row in dfGN.iterrows():
+    place = row['place']
+    ident = row['id']
+    lat = row['lat']
+    lon = row['long']
+    geonamesDict[place]['id'] = ident
+    geonamesDict[place]['latitude'] = lat
+    geonamesDict[place]['longitude'] = lon
+dumped_geonames = json.dumps(data, indent=4)
+
+dfCombo = pd.read_json(dumped_geonames, orient="index")
 
 print("Getting metadata from config.ini...")
 config = configparser.ConfigParser()
@@ -859,7 +886,7 @@ CMIFstring = '<?xml-model href="https://raw.githubusercontent.com/TEI-Correspond
 CMIF = BeautifulSoup(CMIFstring,"xml") # Read as XML, not HTML
 profileDescElement = CMIF.find('profileDesc') # Target correspondence wrapper
 for idx,row in dfCombo.iterrows():
-    document,date,datetype,authors,recipients,place = row['document'],row['date'],row['datetype'],row['authors'],row['recipients'],row['place']
+    document,date,datetype,authors,recipients,place,placeID,placelat,placelon = row['document'],row['date'],row['datetype'],row['authors'],row['recipients'],row['place'],row['placeID'],row['lat'],row['lon']
 
     # Construct CMIF correspDesc element
     correspDescElement = CMIF.new_tag("correspDesc", attrs={"key":str(document), "ref":"https://www.emunch.no/HYBRID"+str(document)+".xhtml", "source":"#"+cmifUid})
@@ -888,7 +915,10 @@ for idx,row in dfCombo.iterrows():
         i+=1
     # Place encoding
     if place != "N/A":
-        locationElement = CMIF.new_tag("placeName")#, attrs={"ref":"#idref"+str(re.sub(' +', '',place))}) # Create place element
+        if placeID != "N/A":
+            locationElement = CMIF.new_tag("placeName", attrs={"ref":placeID}) # Create place element #placeID+str(re.sub(' +', '',place))
+        else:
+            locationElement = CMIF.new_tag("placeName") # Create place element #placeID+str(re.sub(' +', '',place))
         locationElement.string = str(place) # Give it a string value (placename)
         correspActionElement.append(locationElement) # Append the new element to the correspAction element
     # End place encoding
