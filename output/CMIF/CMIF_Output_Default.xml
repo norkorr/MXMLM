@@ -10,7 +10,7 @@
    <publicationStmt>
     <publisher><ref target="https://www.munchmuseet.no/">MUNCH</ref></publisher>
     <idno type="url">https://emunch.no/CMIF_Output_Default.xml</idno>
-    <date when="2022-12-22"/>
+    <date when="2023-11-17"/>
     <availability>
      <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
     </availability>
@@ -32,7 +32,7 @@
    <correspDesc key="No-MM_N0711" ref="https://www.emunch.no/HYBRIDNo-MM_N0711.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1933-12-31"/>
     </correspAction>
     <correspAction type="received">
@@ -60,7 +60,7 @@
    <correspDesc key="No-MM_N0717" ref="https://www.emunch.no/HYBRIDNo-MM_N0717.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Løten</placeName>
+     <placeName ref="https://www.geonames.org/9063178/">Løten</placeName>
      <date when="1875-08-02"/>
     </correspAction>
     <correspAction type="received">
@@ -97,7 +97,7 @@
    <correspDesc key="No-MM_N0721" ref="https://www.emunch.no/HYBRIDNo-MM_N0721.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1889-10-09"/>
     </correspAction>
     <correspAction type="received">
@@ -116,7 +116,7 @@
    <correspDesc key="No-MM_N0723" ref="https://www.emunch.no/HYBRIDNo-MM_N0723.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Gardermoen</placeName>
+     <placeName ref="https://www.geonames.org/3156087/">Gardermoen</placeName>
      <date when="1878-08-20"/>
     </correspAction>
     <correspAction type="received">
@@ -126,7 +126,7 @@
    <correspDesc key="No-MM_N0724" ref="https://www.emunch.no/HYBRIDNo-MM_N0724.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Helgelandsmoen</placeName>
+     <placeName ref="https://www.geonames.org/3153186/">Helgelandsmoen</placeName>
      <date when="1879-07-06"/>
     </correspAction>
     <correspAction type="received">
@@ -136,7 +136,7 @@
    <correspDesc key="No-MM_N0725" ref="https://www.emunch.no/HYBRIDNo-MM_N0725.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Le Havre</placeName>
+     <placeName ref="https://www.geonames.org/3003796">Le Havre</placeName>
      <date when="1891-01-02"/>
     </correspAction>
     <correspAction type="received">
@@ -164,7 +164,7 @@
    <correspDesc key="No-MM_N0728" ref="https://www.emunch.no/HYBRIDNo-MM_N0728.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Gardermoen</placeName>
+     <placeName ref="https://www.geonames.org/3156087/">Gardermoen</placeName>
      <date when="1876-06-27"/>
     </correspAction>
     <correspAction type="received">
@@ -174,7 +174,7 @@
    <correspDesc key="No-MM_N0729" ref="https://www.emunch.no/HYBRIDNo-MM_N0729.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Helgelandsmoen</placeName>
+     <placeName ref="https://www.geonames.org/3153186/">Helgelandsmoen</placeName>
      <date when="1879-06-21"/>
     </correspAction>
     <correspAction type="received">
@@ -220,7 +220,7 @@
    <correspDesc key="No-MM_N0734" ref="https://www.emunch.no/HYBRIDNo-MM_N0734.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1885-05-05"/>
     </correspAction>
     <correspAction type="received">
@@ -230,7 +230,7 @@
    <correspDesc key="No-MM_N0735" ref="https://www.emunch.no/HYBRIDNo-MM_N0735.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Hankø</placeName>
+     <placeName ref="https://www.geonames.org/3153933">Hankø</placeName>
      <date when="1888-07-06"/>
     </correspAction>
     <correspAction type="received">
@@ -285,7 +285,7 @@
    <correspDesc key="No-MM_N0741" ref="https://www.emunch.no/HYBRIDNo-MM_N0741.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1889-11-30"/>
     </correspAction>
     <correspAction type="received">
@@ -295,7 +295,7 @@
    <correspDesc key="No-MM_N0742" ref="https://www.emunch.no/HYBRIDNo-MM_N0742.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1889-12-04"/>
     </correspAction>
     <correspAction type="received">
@@ -305,7 +305,7 @@
    <correspDesc key="No-MM_N0743" ref="https://www.emunch.no/HYBRIDNo-MM_N0743.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1889-12-19"/>
     </correspAction>
     <correspAction type="received">
@@ -315,7 +315,7 @@
    <correspDesc key="No-MM_N0744" ref="https://www.emunch.no/HYBRIDNo-MM_N0744.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Saint-Cloud</placeName>
+     <placeName ref="https://www.geonames.org/2981041">Saint-Cloud</placeName>
      <date when="1890-01-02"/>
     </correspAction>
     <correspAction type="received">
@@ -325,7 +325,7 @@
    <correspDesc key="No-MM_N0745" ref="https://www.emunch.no/HYBRIDNo-MM_N0745.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Saint-Cloud</placeName>
+     <placeName ref="https://www.geonames.org/2981041">Saint-Cloud</placeName>
      <date when="1890-01-15"/>
     </correspAction>
     <correspAction type="received">
@@ -335,7 +335,7 @@
    <correspDesc key="No-MM_N0746" ref="https://www.emunch.no/HYBRIDNo-MM_N0746.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Saint-Cloud</placeName>
+     <placeName ref="https://www.geonames.org/2981041">Saint-Cloud</placeName>
      <date when="1890"/>
     </correspAction>
     <correspAction type="received">
@@ -345,7 +345,7 @@
    <correspDesc key="No-MM_N0747" ref="https://www.emunch.no/HYBRIDNo-MM_N0747.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Saint-Cloud</placeName>
+     <placeName ref="https://www.geonames.org/2981041">Saint-Cloud</placeName>
      <date when="1890"/>
     </correspAction>
     <correspAction type="received">
@@ -364,7 +364,7 @@
    <correspDesc key="No-MM_N0749" ref="https://www.emunch.no/HYBRIDNo-MM_N0749.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Le Havre</placeName>
+     <placeName ref="https://www.geonames.org/3003796">Le Havre</placeName>
      <date when="1890-11-09"/>
     </correspAction>
     <correspAction type="received">
@@ -374,7 +374,7 @@
    <correspDesc key="No-MM_N0750" ref="https://www.emunch.no/HYBRIDNo-MM_N0750.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Le Havre</placeName>
+     <placeName ref="https://www.geonames.org/3003796">Le Havre</placeName>
      <date when="1890-11-21"/>
     </correspAction>
     <correspAction type="received">
@@ -384,7 +384,7 @@
    <correspDesc key="No-MM_N0751" ref="https://www.emunch.no/HYBRIDNo-MM_N0751.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Le Havre</placeName>
+     <placeName ref="https://www.geonames.org/3003796">Le Havre</placeName>
      <date when="1890-11-25"/>
     </correspAction>
     <correspAction type="received">
@@ -394,7 +394,7 @@
    <correspDesc key="No-MM_N0752" ref="https://www.emunch.no/HYBRIDNo-MM_N0752.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Le Havre</placeName>
+     <placeName ref="https://www.geonames.org/3003796">Le Havre</placeName>
      <date when="1890-12-03"/>
     </correspAction>
     <correspAction type="received">
@@ -404,7 +404,7 @@
    <correspDesc key="No-MM_N0753" ref="https://www.emunch.no/HYBRIDNo-MM_N0753.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Le Havre</placeName>
+     <placeName ref="https://www.geonames.org/3003796">Le Havre</placeName>
      <date when="1890-12-29"/>
     </correspAction>
     <correspAction type="received">
@@ -450,7 +450,7 @@
    <correspDesc key="No-MM_N0758" ref="https://www.emunch.no/HYBRIDNo-MM_N0758.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1891-01-09"/>
     </correspAction>
     <correspAction type="received">
@@ -478,7 +478,7 @@
    <correspDesc key="No-MM_N0761" ref="https://www.emunch.no/HYBRIDNo-MM_N0761.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1891-01-20"/>
     </correspAction>
     <correspAction type="received">
@@ -488,7 +488,7 @@
    <correspDesc key="No-MM_N0762" ref="https://www.emunch.no/HYBRIDNo-MM_N0762.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1891-02-09"/>
     </correspAction>
     <correspAction type="received">
@@ -498,7 +498,7 @@
    <correspDesc key="No-MM_N0763" ref="https://www.emunch.no/HYBRIDNo-MM_N0763.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1891-02-13"/>
     </correspAction>
     <correspAction type="received">
@@ -508,7 +508,7 @@
    <correspDesc key="No-MM_N0764" ref="https://www.emunch.no/HYBRIDNo-MM_N0764.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1891-02-17"/>
     </correspAction>
     <correspAction type="received">
@@ -536,7 +536,7 @@
    <correspDesc key="No-MM_N0767" ref="https://www.emunch.no/HYBRIDNo-MM_N0767.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1891-03-10"/>
     </correspAction>
     <correspAction type="received">
@@ -546,7 +546,7 @@
    <correspDesc key="No-MM_N0768" ref="https://www.emunch.no/HYBRIDNo-MM_N0768.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1891-03-18"/>
     </correspAction>
     <correspAction type="received">
@@ -565,7 +565,7 @@
    <correspDesc key="No-MM_N0770" ref="https://www.emunch.no/HYBRIDNo-MM_N0770.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1891-04-13"/>
     </correspAction>
     <correspAction type="received">
@@ -620,7 +620,7 @@
    <correspDesc key="No-MM_N0776" ref="https://www.emunch.no/HYBRIDNo-MM_N0776.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1891-12-06"/>
     </correspAction>
     <correspAction type="received">
@@ -630,7 +630,7 @@
    <correspDesc key="No-MM_N0777" ref="https://www.emunch.no/HYBRIDNo-MM_N0777.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1892-01-02"/>
     </correspAction>
     <correspAction type="received">
@@ -658,7 +658,7 @@
    <correspDesc key="No-MM_N0780" ref="https://www.emunch.no/HYBRIDNo-MM_N0780.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1892-02-23"/>
     </correspAction>
     <correspAction type="received">
@@ -686,7 +686,7 @@
    <correspDesc key="No-MM_N0783" ref="https://www.emunch.no/HYBRIDNo-MM_N0783.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1892-10-25"/>
     </correspAction>
     <correspAction type="received">
@@ -705,7 +705,7 @@
    <correspDesc key="No-MM_N0785" ref="https://www.emunch.no/HYBRIDNo-MM_N0785.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1892-11-12"/>
     </correspAction>
     <correspAction type="received">
@@ -715,7 +715,7 @@
    <correspDesc key="No-MM_N0786" ref="https://www.emunch.no/HYBRIDNo-MM_N0786.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1892-11-17"/>
     </correspAction>
     <correspAction type="received">
@@ -725,7 +725,7 @@
    <correspDesc key="No-MM_N0787" ref="https://www.emunch.no/HYBRIDNo-MM_N0787.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1892-11-26"/>
     </correspAction>
     <correspAction type="received">
@@ -753,7 +753,7 @@
    <correspDesc key="No-MM_N0790" ref="https://www.emunch.no/HYBRIDNo-MM_N0790.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1893-01-20"/>
     </correspAction>
     <correspAction type="received">
@@ -763,7 +763,7 @@
    <correspDesc key="No-MM_N0791" ref="https://www.emunch.no/HYBRIDNo-MM_N0791.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1893-02-25"/>
     </correspAction>
     <correspAction type="received">
@@ -791,7 +791,7 @@
    <correspDesc key="No-MM_N0794" ref="https://www.emunch.no/HYBRIDNo-MM_N0794.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Dresden</placeName>
+     <placeName ref="https://www.geonames.org/2935022/">Dresden</placeName>
      <date when="1893-05-26"/>
     </correspAction>
     <correspAction type="received">
@@ -828,7 +828,7 @@
    <correspDesc key="No-MM_N0798" ref="https://www.emunch.no/HYBRIDNo-MM_N0798.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1893-12-18"/>
     </correspAction>
     <correspAction type="received">
@@ -847,7 +847,7 @@
    <correspDesc key="No-MM_N0800" ref="https://www.emunch.no/HYBRIDNo-MM_N0800.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1893-12-03"/>
     </correspAction>
     <correspAction type="received">
@@ -875,7 +875,7 @@
    <correspDesc key="No-MM_N0803" ref="https://www.emunch.no/HYBRIDNo-MM_N0803.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1894-03-13"/>
     </correspAction>
     <correspAction type="received">
@@ -885,7 +885,7 @@
    <correspDesc key="No-MM_N0804" ref="https://www.emunch.no/HYBRIDNo-MM_N0804.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1894-04-29"/>
     </correspAction>
     <correspAction type="received">
@@ -895,7 +895,7 @@
    <correspDesc key="No-MM_N0805" ref="https://www.emunch.no/HYBRIDNo-MM_N0805.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Stockholm</placeName>
+     <placeName ref="https://www.geonames.org/2673730/">Stockholm</placeName>
      <date when="1894-10-07"/>
     </correspAction>
     <correspAction type="received">
@@ -905,7 +905,7 @@
    <correspDesc key="No-MM_N0806" ref="https://www.emunch.no/HYBRIDNo-MM_N0806.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1894-10-24"/>
     </correspAction>
     <correspAction type="received">
@@ -915,7 +915,7 @@
    <correspDesc key="No-MM_N0807" ref="https://www.emunch.no/HYBRIDNo-MM_N0807.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1894-11-14"/>
     </correspAction>
     <correspAction type="received">
@@ -925,7 +925,7 @@
    <correspDesc key="No-MM_N0808" ref="https://www.emunch.no/HYBRIDNo-MM_N0808.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1895-02-03"/>
     </correspAction>
     <correspAction type="received">
@@ -1313,7 +1313,7 @@
    <correspDesc key="No-MM_N0852" ref="https://www.emunch.no/HYBRIDNo-MM_N0852.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1902-11-14"/>
     </correspAction>
     <correspAction type="received">
@@ -1323,7 +1323,7 @@
    <correspDesc key="No-MM_N0853" ref="https://www.emunch.no/HYBRIDNo-MM_N0853.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1902-11-24"/>
     </correspAction>
     <correspAction type="received">
@@ -1342,7 +1342,7 @@
    <correspDesc key="No-MM_N0855" ref="https://www.emunch.no/HYBRIDNo-MM_N0855.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1902-12-22"/>
     </correspAction>
     <correspAction type="received">
@@ -1379,7 +1379,7 @@
    <correspDesc key="No-MM_N0859" ref="https://www.emunch.no/HYBRIDNo-MM_N0859.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Leipzig</placeName>
+     <placeName ref="https://www.geonames.org/2879139/">Leipzig</placeName>
      <date when="1903-02-27"/>
     </correspAction>
     <correspAction type="received">
@@ -1389,7 +1389,7 @@
    <correspDesc key="No-MM_N0860" ref="https://www.emunch.no/HYBRIDNo-MM_N0860.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1903-03-23"/>
     </correspAction>
     <correspAction type="received">
@@ -1399,7 +1399,7 @@
    <correspDesc key="No-MM_N0861" ref="https://www.emunch.no/HYBRIDNo-MM_N0861.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1903-04-17"/>
     </correspAction>
     <correspAction type="received">
@@ -1409,7 +1409,7 @@
    <correspDesc key="No-MM_N0862" ref="https://www.emunch.no/HYBRIDNo-MM_N0862.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1903-05-05"/>
     </correspAction>
     <correspAction type="received">
@@ -1428,7 +1428,7 @@
    <correspDesc key="No-MM_N0864" ref="https://www.emunch.no/HYBRIDNo-MM_N0864.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1903-05-06"/>
     </correspAction>
     <correspAction type="received">
@@ -1447,7 +1447,7 @@
    <correspDesc key="No-MM_N0866" ref="https://www.emunch.no/HYBRIDNo-MM_N0866.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1903-12-22"/>
     </correspAction>
     <correspAction type="received">
@@ -1457,7 +1457,7 @@
    <correspDesc key="No-MM_N0867" ref="https://www.emunch.no/HYBRIDNo-MM_N0867.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1904-01-02"/>
     </correspAction>
     <correspAction type="received">
@@ -1476,7 +1476,7 @@
    <correspDesc key="No-MM_N0870" ref="https://www.emunch.no/HYBRIDNo-MM_N0870.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Weimar</placeName>
+     <placeName ref="https://www.geonames.org/2812482/">Weimar</placeName>
      <date when="1904-03-18"/>
     </correspAction>
     <correspAction type="received">
@@ -1486,7 +1486,7 @@
    <correspDesc key="No-MM_N0871" ref="https://www.emunch.no/HYBRIDNo-MM_N0871.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-07-13"/>
     </correspAction>
     <correspAction type="received">
@@ -1505,7 +1505,7 @@
    <correspDesc key="No-MM_N0873" ref="https://www.emunch.no/HYBRIDNo-MM_N0873.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1904-08-15"/>
     </correspAction>
     <correspAction type="received">
@@ -1515,7 +1515,7 @@
    <correspDesc key="No-MM_N0874" ref="https://www.emunch.no/HYBRIDNo-MM_N0874.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Travemünde</placeName>
+     <placeName ref="https://www.geonames.org/2821480/">Travemünde</placeName>
      <date when="1904-08-17"/>
     </correspAction>
     <correspAction type="received">
@@ -1552,7 +1552,7 @@
    <correspDesc key="No-MM_N0878" ref="https://www.emunch.no/HYBRIDNo-MM_N0878.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-09-19"/>
     </correspAction>
     <correspAction type="received">
@@ -1571,7 +1571,7 @@
    <correspDesc key="No-MM_N0880" ref="https://www.emunch.no/HYBRIDNo-MM_N0880.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-10-30"/>
     </correspAction>
     <correspAction type="received">
@@ -1581,7 +1581,7 @@
    <correspDesc key="No-MM_N0881" ref="https://www.emunch.no/HYBRIDNo-MM_N0881.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-11-21"/>
     </correspAction>
     <correspAction type="received">
@@ -1600,7 +1600,7 @@
    <correspDesc key="No-MM_N0883" ref="https://www.emunch.no/HYBRIDNo-MM_N0883.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1904-12-14"/>
     </correspAction>
     <correspAction type="received">
@@ -1691,7 +1691,7 @@
    <correspDesc key="No-MM_N0893" ref="https://www.emunch.no/HYBRIDNo-MM_N0893.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Praha</placeName>
+     <placeName ref="https://www.geonames.org/3067696/">Praha</placeName>
      <date when="1905-02-08"/>
     </correspAction>
     <correspAction type="received">
@@ -1710,7 +1710,7 @@
    <correspDesc key="No-MM_N0895" ref="https://www.emunch.no/HYBRIDNo-MM_N0895.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Thüringen</placeName>
+     <placeName ref="https://www.geonames.org/2822542/">Thüringen</placeName>
      <date when="1905-11-17"/>
     </correspAction>
     <correspAction type="received">
@@ -1720,7 +1720,7 @@
    <correspDesc key="No-MM_N0896" ref="https://www.emunch.no/HYBRIDNo-MM_N0896.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Bad Elgersburg</placeName>
+     <placeName ref="https://www.geonames.org/2931171/">Bad Elgersburg</placeName>
      <date when="1905-12-26"/>
     </correspAction>
     <correspAction type="received">
@@ -1766,7 +1766,7 @@
    <correspDesc key="No-MM_N0901" ref="https://www.emunch.no/HYBRIDNo-MM_N0901.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1905-01-18"/>
     </correspAction>
     <correspAction type="received">
@@ -1794,7 +1794,7 @@
    <correspDesc key="No-MM_N0904" ref="https://www.emunch.no/HYBRIDNo-MM_N0904.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Weimar</placeName>
+     <placeName ref="https://www.geonames.org/2812482/">Weimar</placeName>
      <date when="1906-03-08"/>
     </correspAction>
     <correspAction type="received">
@@ -1822,7 +1822,7 @@
    <correspDesc key="No-MM_N0907" ref="https://www.emunch.no/HYBRIDNo-MM_N0907.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1906-04-26"/>
     </correspAction>
     <correspAction type="received">
@@ -1958,7 +1958,7 @@
    <correspDesc key="No-MM_N0922" ref="https://www.emunch.no/HYBRIDNo-MM_N0922.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Stockholm</placeName>
+     <placeName ref="https://www.geonames.org/2673730/">Stockholm</placeName>
      <date when="1907-07-07"/>
     </correspAction>
     <correspAction type="received">
@@ -2049,7 +2049,7 @@
    <correspDesc key="No-MM_N0932" ref="https://www.emunch.no/HYBRIDNo-MM_N0932.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Warnemünde</placeName>
+     <placeName ref="https://www.geonames.org/2814055/">Warnemünde</placeName>
      <date when="1907-12-26"/>
     </correspAction>
     <correspAction type="received">
@@ -2077,7 +2077,7 @@
    <correspDesc key="No-MM_N0935" ref="https://www.emunch.no/HYBRIDNo-MM_N0935.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1908-02-07"/>
     </correspAction>
     <correspAction type="received">
@@ -2096,7 +2096,7 @@
    <correspDesc key="No-MM_N0937" ref="https://www.emunch.no/HYBRIDNo-MM_N0937.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Warnemünde</placeName>
+     <placeName ref="https://www.geonames.org/2814055/">Warnemünde</placeName>
      <date when="1908-05-18"/>
     </correspAction>
     <correspAction type="received">
@@ -2106,7 +2106,7 @@
    <correspDesc key="No-MM_N0938" ref="https://www.emunch.no/HYBRIDNo-MM_N0938.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Warnemünde</placeName>
+     <placeName ref="https://www.geonames.org/2814055/">Warnemünde</placeName>
      <date when="1908-06-23"/>
     </correspAction>
     <correspAction type="received">
@@ -2125,7 +2125,7 @@
    <correspDesc key="No-MM_N0941" ref="https://www.emunch.no/HYBRIDNo-MM_N0941.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-10-27"/>
     </correspAction>
     <correspAction type="received">
@@ -2135,7 +2135,7 @@
    <correspDesc key="No-MM_N0942" ref="https://www.emunch.no/HYBRIDNo-MM_N0942.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-11-13"/>
     </correspAction>
     <correspAction type="received">
@@ -2145,7 +2145,7 @@
    <correspDesc key="No-MM_N0943" ref="https://www.emunch.no/HYBRIDNo-MM_N0943.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-11-22"/>
     </correspAction>
     <correspAction type="received">
@@ -2155,7 +2155,7 @@
    <correspDesc key="No-MM_N0944" ref="https://www.emunch.no/HYBRIDNo-MM_N0944.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-11-28"/>
     </correspAction>
     <correspAction type="received">
@@ -2165,7 +2165,7 @@
    <correspDesc key="No-MM_N0945" ref="https://www.emunch.no/HYBRIDNo-MM_N0945.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-12-05"/>
     </correspAction>
     <correspAction type="received">
@@ -2184,7 +2184,7 @@
    <correspDesc key="No-MM_N0947" ref="https://www.emunch.no/HYBRIDNo-MM_N0947.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-01-18"/>
     </correspAction>
     <correspAction type="received">
@@ -2203,7 +2203,7 @@
    <correspDesc key="No-MM_N0949" ref="https://www.emunch.no/HYBRIDNo-MM_N0949.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1909-04-11"/>
     </correspAction>
     <correspAction type="received">
@@ -2213,7 +2213,7 @@
    <correspDesc key="No-MM_N0950" ref="https://www.emunch.no/HYBRIDNo-MM_N0950.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1909-04-15"/>
     </correspAction>
     <correspAction type="received">
@@ -2259,7 +2259,7 @@
    <correspDesc key="No-MM_N0956" ref="https://www.emunch.no/HYBRIDNo-MM_N0956.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Kragerø</placeName>
+     <placeName ref="https://www.geonames.org/3149412/">Kragerø</placeName>
      <date when="1909-07-14"/>
     </correspAction>
     <correspAction type="received">
@@ -2269,7 +2269,7 @@
    <correspDesc key="No-MM_N0957" ref="https://www.emunch.no/HYBRIDNo-MM_N0957.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Travemünde</placeName>
+     <placeName ref="https://www.geonames.org/2821480/">Travemünde</placeName>
      <date when="1904-08-17"/>
     </correspAction>
     <correspAction type="received">
@@ -2279,7 +2279,7 @@
    <correspDesc key="No-MM_N0958" ref="https://www.emunch.no/HYBRIDNo-MM_N0958.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1907-08-17"/>
     </correspAction>
     <correspAction type="received">
@@ -2325,7 +2325,7 @@
    <correspDesc key="No-MM_N0963" ref="https://www.emunch.no/HYBRIDNo-MM_N0963.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Kragerø</placeName>
+     <placeName ref="https://www.geonames.org/3149412/">Kragerø</placeName>
      <date when="1910-12-18"/>
     </correspAction>
     <correspAction type="received">
@@ -2344,7 +2344,7 @@
    <correspDesc key="No-MM_N0965" ref="https://www.emunch.no/HYBRIDNo-MM_N0965.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Hvitsten</placeName>
+     <placeName ref="https://www.geonames.org/3151289/">Hvitsten</placeName>
      <date when="1911-04-08"/>
     </correspAction>
     <correspAction type="received">
@@ -2561,7 +2561,7 @@
    <correspDesc key="No-MM_N0989" ref="https://www.emunch.no/HYBRIDNo-MM_N0989.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1920-01-31"/>
     </correspAction>
     <correspAction type="received">
@@ -2598,7 +2598,7 @@
    <correspDesc key="No-MM_N0993" ref="https://www.emunch.no/HYBRIDNo-MM_N0993.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1921-01-29"/>
     </correspAction>
     <correspAction type="received">
@@ -2761,7 +2761,7 @@
    <correspDesc key="No-MM_N1011" ref="https://www.emunch.no/HYBRIDNo-MM_N1011.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Dresden</placeName>
+     <placeName ref="https://www.geonames.org/2935022/">Dresden</placeName>
      <date when="1926-10-14"/>
     </correspAction>
     <correspAction type="received">
@@ -2825,7 +2825,7 @@
    <correspDesc key="No-MM_N1018" ref="https://www.emunch.no/HYBRIDNo-MM_N1018.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Roma</placeName>
+     <placeName ref="https://www.geonames.org/3169070/">Roma</placeName>
      <date when="1927-04-04"/>
     </correspAction>
     <correspAction type="received">
@@ -2835,7 +2835,7 @@
    <correspDesc key="No-MM_N1019" ref="https://www.emunch.no/HYBRIDNo-MM_N1019.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1930-08-24"/>
     </correspAction>
     <correspAction type="received">
@@ -3308,7 +3308,7 @@
    <correspDesc key="No-MM_N1092" ref="https://www.emunch.no/HYBRIDNo-MM_N1092.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1889-12-07"/>
     </correspAction>
     <correspAction type="received">
@@ -3321,7 +3321,7 @@
    <correspDesc key="No-MM_N1093" ref="https://www.emunch.no/HYBRIDNo-MM_N1093.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Saint-Cloud</placeName>
+     <placeName ref="https://www.geonames.org/2981041">Saint-Cloud</placeName>
      <date when="1890-02-15"/>
     </correspAction>
     <correspAction type="received">
@@ -3340,7 +3340,7 @@
    <correspDesc key="No-MM_N1095" ref="https://www.emunch.no/HYBRIDNo-MM_N1095.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1891-01-31"/>
     </correspAction>
     <correspAction type="received">
@@ -3368,7 +3368,7 @@
    <correspDesc key="No-MM_N1098" ref="https://www.emunch.no/HYBRIDNo-MM_N1098.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Stockholm</placeName>
+     <placeName ref="https://www.geonames.org/2673730/">Stockholm</placeName>
      <date when="1894-09-29"/>
     </correspAction>
     <correspAction type="received">
@@ -3378,7 +3378,7 @@
    <correspDesc key="No-MM_N1099" ref="https://www.emunch.no/HYBRIDNo-MM_N1099.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1894-12-17"/>
     </correspAction>
     <correspAction type="received">
@@ -3678,7 +3678,7 @@
    <correspDesc key="No-MM_N1132" ref="https://www.emunch.no/HYBRIDNo-MM_N1132.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1927-10-27"/>
     </correspAction>
     <correspAction type="received">
@@ -3786,7 +3786,7 @@
    <correspDesc key="No-MM_N1144" ref="https://www.emunch.no/HYBRIDNo-MM_N1144.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1931-05-19"/>
     </correspAction>
     <correspAction type="received">
@@ -3947,7 +3947,7 @@
    <correspDesc key="No-MM_N1162" ref="https://www.emunch.no/HYBRIDNo-MM_N1162.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-01-03"/>
     </correspAction>
     <correspAction type="received">
@@ -3957,7 +3957,7 @@
    <correspDesc key="No-MM_N1163" ref="https://www.emunch.no/HYBRIDNo-MM_N1163.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-01-21"/>
     </correspAction>
     <correspAction type="received">
@@ -3967,7 +3967,7 @@
    <correspDesc key="No-MM_N1164" ref="https://www.emunch.no/HYBRIDNo-MM_N1164.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-01-22"/>
     </correspAction>
     <correspAction type="received">
@@ -3977,7 +3977,7 @@
    <correspDesc key="No-MM_N1165" ref="https://www.emunch.no/HYBRIDNo-MM_N1165.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-07-05"/>
     </correspAction>
     <correspAction type="received">
@@ -3987,7 +3987,7 @@
    <correspDesc key="No-MM_N1166" ref="https://www.emunch.no/HYBRIDNo-MM_N1166.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Göteborg</placeName>
+     <placeName ref="https://www.geonames.org/2711537/">Göteborg</placeName>
      <date when="1934-10-11"/>
     </correspAction>
     <correspAction type="received">
@@ -3997,7 +3997,7 @@
    <correspDesc key="No-MM_N1167" ref="https://www.emunch.no/HYBRIDNo-MM_N1167.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-02-03"/>
     </correspAction>
     <correspAction type="received">
@@ -4106,7 +4106,7 @@
    <correspDesc key="No-MM_N1179" ref="https://www.emunch.no/HYBRIDNo-MM_N1179.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1935-02-02"/>
     </correspAction>
     <correspAction type="received">
@@ -4177,7 +4177,7 @@
    <correspDesc key="No-MM_N1187" ref="https://www.emunch.no/HYBRIDNo-MM_N1187.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1935-10-09"/>
     </correspAction>
     <correspAction type="received">
@@ -4277,7 +4277,7 @@
    <correspDesc key="No-MM_N1198" ref="https://www.emunch.no/HYBRIDNo-MM_N1198.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1936-02-04"/>
     </correspAction>
     <correspAction type="received">
@@ -4296,7 +4296,7 @@
    <correspDesc key="No-MM_N1200" ref="https://www.emunch.no/HYBRIDNo-MM_N1200.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1936-09-20"/>
     </correspAction>
     <correspAction type="received">
@@ -4306,7 +4306,7 @@
    <correspDesc key="No-MM_N1201" ref="https://www.emunch.no/HYBRIDNo-MM_N1201.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1936-09-21"/>
     </correspAction>
     <correspAction type="received">
@@ -4316,7 +4316,7 @@
    <correspDesc key="No-MM_N1202" ref="https://www.emunch.no/HYBRIDNo-MM_N1202.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1936-11-06"/>
     </correspAction>
     <correspAction type="received">
@@ -4449,7 +4449,7 @@
    <correspDesc key="No-MM_N1217" ref="https://www.emunch.no/HYBRIDNo-MM_N1217.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1938-01-02"/>
     </correspAction>
     <correspAction type="received">
@@ -4459,7 +4459,7 @@
    <correspDesc key="No-MM_N1218" ref="https://www.emunch.no/HYBRIDNo-MM_N1218.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1938-01-05"/>
     </correspAction>
     <correspAction type="received">
@@ -4532,7 +4532,7 @@
    <correspDesc key="No-MM_N1226" ref="https://www.emunch.no/HYBRIDNo-MM_N1226.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1939-01-02"/>
     </correspAction>
     <correspAction type="received">
@@ -4551,7 +4551,7 @@
    <correspDesc key="No-MM_N1228" ref="https://www.emunch.no/HYBRIDNo-MM_N1228.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1940-01-04"/>
     </correspAction>
     <correspAction type="received">
@@ -4561,7 +4561,7 @@
    <correspDesc key="No-MM_N1229" ref="https://www.emunch.no/HYBRIDNo-MM_N1229.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1940-04-21"/>
     </correspAction>
     <correspAction type="received">
@@ -4616,7 +4616,7 @@
    <correspDesc key="No-MM_N1235" ref="https://www.emunch.no/HYBRIDNo-MM_N1235.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1940-12-21"/>
     </correspAction>
     <correspAction type="received">
@@ -4770,7 +4770,7 @@
    <correspDesc key="No-MM_N1253" ref="https://www.emunch.no/HYBRIDNo-MM_N1253.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1942-12-07"/>
     </correspAction>
     <correspAction type="received">
@@ -5023,7 +5023,7 @@
    <correspDesc key="No-MM_N1282" ref="https://www.emunch.no/HYBRIDNo-MM_N1282.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1943-06-11"/>
     </correspAction>
     <correspAction type="received">
@@ -5174,7 +5174,7 @@
    <correspDesc key="No-MM_N1299" ref="https://www.emunch.no/HYBRIDNo-MM_N1299.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
     </correspAction>
     <correspAction type="received">
      <persName ref="https://emunch.no/person.xhtml?id=pe348">Inger Munch</persName>
@@ -6169,7 +6169,7 @@
    <correspDesc key="No-MM_N1419" ref="https://www.emunch.no/HYBRIDNo-MM_N1419.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-01-18"/>
     </correspAction>
     <correspAction type="received">
@@ -6188,7 +6188,7 @@
    <correspDesc key="No-MM_N1421" ref="https://www.emunch.no/HYBRIDNo-MM_N1421.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1890"/>
     </correspAction>
     <correspAction type="received">
@@ -6295,7 +6295,7 @@
    <correspDesc key="No-MM_N1433" ref="https://www.emunch.no/HYBRIDNo-MM_N1433.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1939-05-16"/>
     </correspAction>
     <correspAction type="received">
@@ -6379,7 +6379,7 @@
    <correspDesc key="No-MM_N1444" ref="https://www.emunch.no/HYBRIDNo-MM_N1444.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1940-05-01"/>
     </correspAction>
     <correspAction type="received">
@@ -6633,7 +6633,7 @@
    <correspDesc key="No-MM_N1481" ref="https://www.emunch.no/HYBRIDNo-MM_N1481.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1943-07-01"/>
     </correspAction>
     <correspAction type="received">
@@ -7583,7 +7583,7 @@
    <correspDesc key="No-MM_N1599" ref="https://www.emunch.no/HYBRIDNo-MM_N1599.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1921-12-20"/>
     </correspAction>
     <correspAction type="received">
@@ -7638,7 +7638,7 @@
    <correspDesc key="No-MM_N1605" ref="https://www.emunch.no/HYBRIDNo-MM_N1605.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Zürich</placeName>
+     <placeName ref="https://www.geonames.org/2657896/">Zürich</placeName>
      <date when="1923-05-15"/>
     </correspAction>
     <correspAction type="received">
@@ -7742,7 +7742,7 @@
    <correspDesc key="No-MM_N1617" ref="https://www.emunch.no/HYBRIDNo-MM_N1617.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1928-12-12"/>
     </correspAction>
     <correspAction type="received">
@@ -7925,7 +7925,7 @@
    <correspDesc key="No-MM_N2793" ref="https://www.emunch.no/HYBRIDNo-MM_N2793.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-01-07"/>
     </correspAction>
     <correspAction type="received">
@@ -7935,7 +7935,7 @@
    <correspDesc key="No-MM_N2794" ref="https://www.emunch.no/HYBRIDNo-MM_N2794.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-01-16"/>
     </correspAction>
     <correspAction type="received">
@@ -7989,7 +7989,7 @@
    <correspDesc key="No-MM_N2800" ref="https://www.emunch.no/HYBRIDNo-MM_N2800.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1903-08-17"/>
     </correspAction>
     <correspAction type="received">
@@ -7999,7 +7999,7 @@
    <correspDesc key="No-MM_N2801" ref="https://www.emunch.no/HYBRIDNo-MM_N2801.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1903-10-20"/>
     </correspAction>
     <correspAction type="received">
@@ -8009,7 +8009,7 @@
    <correspDesc key="No-MM_N2802" ref="https://www.emunch.no/HYBRIDNo-MM_N2802.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1903-11-13"/>
     </correspAction>
     <correspAction type="received">
@@ -8064,7 +8064,7 @@
    <correspDesc key="No-MM_N2808" ref="https://www.emunch.no/HYBRIDNo-MM_N2808.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-07-01"/>
     </correspAction>
     <correspAction type="received">
@@ -8092,7 +8092,7 @@
    <correspDesc key="No-MM_N2811" ref="https://www.emunch.no/HYBRIDNo-MM_N2811.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1904-10-10"/>
     </correspAction>
     <correspAction type="received">
@@ -8120,7 +8120,7 @@
    <correspDesc key="No-MM_N2814" ref="https://www.emunch.no/HYBRIDNo-MM_N2814.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date notAfter="1905" notBefore="1904"/>
     </correspAction>
     <correspAction type="received">
@@ -8130,7 +8130,7 @@
    <correspDesc key="No-MM_N2816" ref="https://www.emunch.no/HYBRIDNo-MM_N2816.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1904-11-25"/>
     </correspAction>
     <correspAction type="received">
@@ -8140,7 +8140,7 @@
    <correspDesc key="No-MM_N2817" ref="https://www.emunch.no/HYBRIDNo-MM_N2817.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1904-12-04"/>
     </correspAction>
     <correspAction type="received">
@@ -8168,7 +8168,7 @@
    <correspDesc key="No-MM_N2820" ref="https://www.emunch.no/HYBRIDNo-MM_N2820.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1904-12-03"/>
     </correspAction>
     <correspAction type="received">
@@ -8178,7 +8178,7 @@
    <correspDesc key="No-MM_N2821" ref="https://www.emunch.no/HYBRIDNo-MM_N2821.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Hamburg</placeName>
+     <placeName ref="https://www.geonames.org/2911298/">Hamburg</placeName>
      <date when="1904-12-21"/>
     </correspAction>
     <correspAction type="received">
@@ -8232,7 +8232,7 @@
    <correspDesc key="No-MM_N2827" ref="https://www.emunch.no/HYBRIDNo-MM_N2827.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1905-02-07"/>
     </correspAction>
     <correspAction type="received">
@@ -8278,7 +8278,7 @@
    <correspDesc key="No-MM_N2832" ref="https://www.emunch.no/HYBRIDNo-MM_N2832.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1905-08-19"/>
     </correspAction>
     <correspAction type="received">
@@ -8306,7 +8306,7 @@
    <correspDesc key="No-MM_N2835" ref="https://www.emunch.no/HYBRIDNo-MM_N2835.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Chemnitz</placeName>
+     <placeName ref="https://www.geonames.org/2940132/">Chemnitz</placeName>
      <date when="1905-09-24"/>
     </correspAction>
     <correspAction type="received">
@@ -8316,7 +8316,7 @@
    <correspDesc key="No-MM_N2836" ref="https://www.emunch.no/HYBRIDNo-MM_N2836.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Bad Elgersburg</placeName>
+     <placeName ref="https://www.geonames.org/2931171/">Bad Elgersburg</placeName>
      <date when="1905-11-28"/>
     </correspAction>
     <correspAction type="received">
@@ -8416,7 +8416,7 @@
    <correspDesc key="No-MM_N2847" ref="https://www.emunch.no/HYBRIDNo-MM_N2847.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1907-01-13"/>
     </correspAction>
     <correspAction type="received">
@@ -8435,7 +8435,7 @@
    <correspDesc key="No-MM_N2849" ref="https://www.emunch.no/HYBRIDNo-MM_N2849.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1907-01-30"/>
     </correspAction>
     <correspAction type="received">
@@ -8472,7 +8472,7 @@
    <correspDesc key="No-MM_N2853" ref="https://www.emunch.no/HYBRIDNo-MM_N2853.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1908-03-08"/>
     </correspAction>
     <correspAction type="received">
@@ -8500,7 +8500,7 @@
    <correspDesc key="No-MM_N2856" ref="https://www.emunch.no/HYBRIDNo-MM_N2856.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-10-25"/>
     </correspAction>
     <correspAction type="received">
@@ -8510,7 +8510,7 @@
    <correspDesc key="No-MM_N2857" ref="https://www.emunch.no/HYBRIDNo-MM_N2857.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-12-17"/>
     </correspAction>
     <correspAction type="received">
@@ -8520,7 +8520,7 @@
    <correspDesc key="No-MM_N2858" ref="https://www.emunch.no/HYBRIDNo-MM_N2858.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Warnemünde</placeName>
+     <placeName ref="https://www.geonames.org/2814055/">Warnemünde</placeName>
      <date when="1908-05-14"/>
     </correspAction>
     <correspAction type="received">
@@ -8566,7 +8566,7 @@
    <correspDesc key="No-MM_N2863" ref="https://www.emunch.no/HYBRIDNo-MM_N2863.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1909-02-04"/>
     </correspAction>
     <correspAction type="received">
@@ -8594,7 +8594,7 @@
    <correspDesc key="No-MM_N2866" ref="https://www.emunch.no/HYBRIDNo-MM_N2866.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1909-03-17"/>
     </correspAction>
     <correspAction type="received">
@@ -8613,7 +8613,7 @@
    <correspDesc key="No-MM_N2868" ref="https://www.emunch.no/HYBRIDNo-MM_N2868.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1909-04-02"/>
     </correspAction>
     <correspAction type="received">
@@ -8749,7 +8749,7 @@
    <correspDesc key="No-MM_N2883" ref="https://www.emunch.no/HYBRIDNo-MM_N2883.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Hvitsten</placeName>
+     <placeName ref="https://www.geonames.org/3151289/">Hvitsten</placeName>
      <date when="1911-03-20"/>
     </correspAction>
     <correspAction type="received">
@@ -8948,7 +8948,7 @@
    <correspDesc key="No-MM_N2905" ref="https://www.emunch.no/HYBRIDNo-MM_N2905.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1920-12-29"/>
     </correspAction>
     <correspAction type="received">
@@ -9057,7 +9057,7 @@
    <correspDesc key="No-MM_N2917" ref="https://www.emunch.no/HYBRIDNo-MM_N2917.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1926-05-23"/>
     </correspAction>
     <correspAction type="received">
@@ -9170,7 +9170,7 @@
    <correspDesc key="No-MM_N2931" ref="https://www.emunch.no/HYBRIDNo-MM_N2931.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1920"/>
     </correspAction>
     <correspAction type="received">
@@ -9188,7 +9188,7 @@
    <correspDesc key="No-MM_N2933" ref="https://www.emunch.no/HYBRIDNo-MM_N2933.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
     </correspAction>
     <correspAction type="received">
      <persName ref="https://emunch.no/person.xhtml?id=pe392">Ludvig Ravensberg</persName>
@@ -9325,7 +9325,7 @@
    <correspDesc key="No-MM_N2949" ref="https://www.emunch.no/HYBRIDNo-MM_N2949.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1936-11-10"/>
     </correspAction>
     <correspAction type="received">
@@ -9335,7 +9335,7 @@
    <correspDesc key="No-MM_N2950" ref="https://www.emunch.no/HYBRIDNo-MM_N2950.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1936-12-20"/>
     </correspAction>
     <correspAction type="received">
@@ -9381,7 +9381,7 @@
    <correspDesc key="No-MM_N2956" ref="https://www.emunch.no/HYBRIDNo-MM_N2956.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1937-08-25"/>
     </correspAction>
     <correspAction type="received">
@@ -9436,7 +9436,7 @@
    <correspDesc key="No-MM_N2962" ref="https://www.emunch.no/HYBRIDNo-MM_N2962.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1939-05-03"/>
     </correspAction>
     <correspAction type="received">
@@ -9482,7 +9482,7 @@
    <correspDesc key="No-MM_N2967" ref="https://www.emunch.no/HYBRIDNo-MM_N2967.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1941-05-09"/>
     </correspAction>
     <correspAction type="received">
@@ -9492,7 +9492,7 @@
    <correspDesc key="No-MM_N2968" ref="https://www.emunch.no/HYBRIDNo-MM_N2968.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1941-06-19"/>
     </correspAction>
     <correspAction type="received">
@@ -9566,7 +9566,7 @@
    <correspDesc key="No-MM_N3004" ref="https://www.emunch.no/HYBRIDNo-MM_N3004.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
     </correspAction>
     <correspAction type="received">
      <persName ref="https://emunch.no/person.xhtml?id=pe139">Christian Gierløff</persName>
@@ -9584,7 +9584,7 @@
    <correspDesc key="No-MM_N3006" ref="https://www.emunch.no/HYBRIDNo-MM_N3006.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1933-12-31"/>
     </correspAction>
     <correspAction type="received">
@@ -9635,7 +9635,7 @@
    <correspDesc key="No-MM_N3014" ref="https://www.emunch.no/HYBRIDNo-MM_N3014.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Warnemünde</placeName>
+     <placeName ref="https://www.geonames.org/2814055/">Warnemünde</placeName>
      <date when="1908-03-19"/>
     </correspAction>
     <correspAction type="received">
@@ -9671,7 +9671,7 @@
    <correspDesc key="No-MM_N3018" ref="https://www.emunch.no/HYBRIDNo-MM_N3018.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1942-11-11"/>
     </correspAction>
     <correspAction type="received">
@@ -9689,7 +9689,7 @@
    <correspDesc key="No-MM_N3020" ref="https://www.emunch.no/HYBRIDNo-MM_N3020.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1943-04-09"/>
     </correspAction>
     <correspAction type="received">
@@ -9699,7 +9699,7 @@
    <correspDesc key="No-MM_N3021" ref="https://www.emunch.no/HYBRIDNo-MM_N3021.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1943-02-14"/>
     </correspAction>
     <correspAction type="received">
@@ -9727,7 +9727,7 @@
    <correspDesc key="No-MM_N3024" ref="https://www.emunch.no/HYBRIDNo-MM_N3024.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-11-22"/>
     </correspAction>
     <correspAction type="received">
@@ -9799,7 +9799,7 @@
    <correspDesc key="No-MM_N3032" ref="https://www.emunch.no/HYBRIDNo-MM_N3032.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1943-07-15"/>
     </correspAction>
     <correspAction type="received">
@@ -9817,7 +9817,7 @@
    <correspDesc key="No-MM_N3034" ref="https://www.emunch.no/HYBRIDNo-MM_N3034.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1892-02-20"/>
     </correspAction>
     <correspAction type="received">
@@ -9827,7 +9827,7 @@
    <correspDesc key="No-MM_N3035" ref="https://www.emunch.no/HYBRIDNo-MM_N3035.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1891-01-22"/>
     </correspAction>
     <correspAction type="received">
@@ -9837,7 +9837,7 @@
    <correspDesc key="No-MM_N3036" ref="https://www.emunch.no/HYBRIDNo-MM_N3036.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1892-02-08"/>
     </correspAction>
     <correspAction type="received">
@@ -9847,7 +9847,7 @@
    <correspDesc key="No-MM_N2955" ref="https://www.emunch.no/HYBRIDNo-MM_N2955.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1937-06-27"/>
     </correspAction>
     <correspAction type="received">
@@ -9857,7 +9857,7 @@
    <correspDesc key="No-MM_N3037" ref="https://www.emunch.no/HYBRIDNo-MM_N3037.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1892-03-05"/>
     </correspAction>
     <correspAction type="received">
@@ -9993,7 +9993,7 @@
    <correspDesc key="No-MM_N3052" ref="https://www.emunch.no/HYBRIDNo-MM_N3052.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1907-04-19"/>
     </correspAction>
     <correspAction type="received">
@@ -10102,7 +10102,7 @@
    <correspDesc key="No-MM_N3064" ref="https://www.emunch.no/HYBRIDNo-MM_N3064.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Kragerø</placeName>
+     <placeName ref="https://www.geonames.org/3149412/">Kragerø</placeName>
      <date when="1909-10-28"/>
     </correspAction>
     <correspAction type="received">
@@ -10211,7 +10211,7 @@
    <correspDesc key="No-MM_N3076" ref="https://www.emunch.no/HYBRIDNo-MM_N3076.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
     </correspAction>
     <correspAction type="received">
      <persName ref="https://emunch.no/person.xhtml?id=pe146">Emanuel Goldstein</persName>
@@ -10220,7 +10220,7 @@
    <correspDesc key="No-MM_N3077" ref="https://www.emunch.no/HYBRIDNo-MM_N3077.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1920-06-10"/>
     </correspAction>
     <correspAction type="received">
@@ -10239,7 +10239,7 @@
    <correspDesc key="No-MM_N3079" ref="https://www.emunch.no/HYBRIDNo-MM_N3079.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-10-21"/>
     </correspAction>
     <correspAction type="received">
@@ -10249,7 +10249,7 @@
    <correspDesc key="No-MM_N3080" ref="https://www.emunch.no/HYBRIDNo-MM_N3080.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-10-28"/>
     </correspAction>
     <correspAction type="received">
@@ -10259,7 +10259,7 @@
    <correspDesc key="No-MM_N3081" ref="https://www.emunch.no/HYBRIDNo-MM_N3081.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-11-10"/>
     </correspAction>
     <correspAction type="received">
@@ -10278,7 +10278,7 @@
    <correspDesc key="No-MM_N3084" ref="https://www.emunch.no/HYBRIDNo-MM_N3084.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Bad Elgersburg</placeName>
+     <placeName ref="https://www.geonames.org/2931171/">Bad Elgersburg</placeName>
      <date notAfter="1906" notBefore="1905"/>
     </correspAction>
     <correspAction type="received">
@@ -10288,7 +10288,7 @@
    <correspDesc key="No-MM_N3085" ref="https://www.emunch.no/HYBRIDNo-MM_N3085.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Bad Kösen</placeName>
+     <placeName ref="https://www.geonames.org/2953418/">Bad Kösen</placeName>
      <date when="1906"/>
     </correspAction>
     <correspAction type="received">
@@ -10415,7 +10415,7 @@
    <correspDesc key="No-MM_N3101" ref="https://www.emunch.no/HYBRIDNo-MM_N3101.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1932-12-29"/>
     </correspAction>
     <correspAction type="received">
@@ -10425,7 +10425,7 @@
    <correspDesc key="No-MM_N3102" ref="https://www.emunch.no/HYBRIDNo-MM_N3102.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1933-01-01"/>
     </correspAction>
     <correspAction type="received">
@@ -10622,7 +10622,7 @@
    <correspDesc key="No-MM_N3124" ref="https://www.emunch.no/HYBRIDNo-MM_N3124.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1933-12-17"/>
     </correspAction>
     <correspAction type="received">
@@ -10632,7 +10632,7 @@
    <correspDesc key="No-MM_N3125" ref="https://www.emunch.no/HYBRIDNo-MM_N3125.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1933"/>
     </correspAction>
     <correspAction type="received">
@@ -10660,7 +10660,7 @@
    <correspDesc key="No-MM_N3128" ref="https://www.emunch.no/HYBRIDNo-MM_N3128.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-02-05"/>
     </correspAction>
     <correspAction type="received">
@@ -10751,7 +10751,7 @@
    <correspDesc key="No-MM_N3138" ref="https://www.emunch.no/HYBRIDNo-MM_N3138.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1908-02-26"/>
     </correspAction>
     <correspAction type="received">
@@ -10761,7 +10761,7 @@
    <correspDesc key="No-MM_N3139" ref="https://www.emunch.no/HYBRIDNo-MM_N3139.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-12-14"/>
     </correspAction>
     <correspAction type="received">
@@ -10789,7 +10789,7 @@
    <correspDesc key="No-MM_N3142" ref="https://www.emunch.no/HYBRIDNo-MM_N3142.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1909-01-08"/>
     </correspAction>
     <correspAction type="received">
@@ -10817,7 +10817,7 @@
    <correspDesc key="No-MM_N3145" ref="https://www.emunch.no/HYBRIDNo-MM_N3145.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Bad Kösen</placeName>
+     <placeName ref="https://www.geonames.org/2953418/">Bad Kösen</placeName>
      <date when="1906-03-21"/>
     </correspAction>
     <correspAction type="received">
@@ -10854,7 +10854,7 @@
    <correspDesc key="No-MM_N3149" ref="https://www.emunch.no/HYBRIDNo-MM_N3149.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Bad Elgersburg</placeName>
+     <placeName ref="https://www.geonames.org/2931171/">Bad Elgersburg</placeName>
      <date when="1905-12-25"/>
     </correspAction>
     <correspAction type="received">
@@ -10873,7 +10873,7 @@
    <correspDesc key="No-MM_N3151" ref="https://www.emunch.no/HYBRIDNo-MM_N3151.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1905-05-03"/>
     </correspAction>
     <correspAction type="received">
@@ -10946,7 +10946,7 @@
    <correspDesc key="No-MM_N3159" ref="https://www.emunch.no/HYBRIDNo-MM_N3159.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Hamburg</placeName>
+     <placeName ref="https://www.geonames.org/2911298/">Hamburg</placeName>
      <date when="1905-03-02"/>
     </correspAction>
     <correspAction type="received">
@@ -10965,7 +10965,7 @@
    <correspDesc key="No-MM_N3161" ref="https://www.emunch.no/HYBRIDNo-MM_N3161.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Praha</placeName>
+     <placeName ref="https://www.geonames.org/3067696/">Praha</placeName>
      <date when="1905-02-02"/>
     </correspAction>
     <correspAction type="received">
@@ -10975,7 +10975,7 @@
    <correspDesc key="No-MM_N3162" ref="https://www.emunch.no/HYBRIDNo-MM_N3162.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1905-01-18"/>
     </correspAction>
     <correspAction type="received">
@@ -11012,7 +11012,7 @@
    <correspDesc key="No-MM_N3166" ref="https://www.emunch.no/HYBRIDNo-MM_N3166.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Kragerø</placeName>
+     <placeName ref="https://www.geonames.org/3149412/">Kragerø</placeName>
      <date when="1910-01-25"/>
     </correspAction>
     <correspAction type="received">
@@ -11022,7 +11022,7 @@
    <correspDesc key="No-MM_N3167" ref="https://www.emunch.no/HYBRIDNo-MM_N3167.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Kragerø</placeName>
+     <placeName ref="https://www.geonames.org/3149412/">Kragerø</placeName>
      <date when="1910-12-10"/>
     </correspAction>
     <correspAction type="received">
@@ -11050,7 +11050,7 @@
    <correspDesc key="No-MM_N3170" ref="https://www.emunch.no/HYBRIDNo-MM_N3170.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Hvitsten</placeName>
+     <placeName ref="https://www.geonames.org/3151289/">Hvitsten</placeName>
      <date when="1911-08-26"/>
     </correspAction>
     <correspAction type="received">
@@ -11060,7 +11060,7 @@
    <correspDesc key="No-MM_N3171" ref="https://www.emunch.no/HYBRIDNo-MM_N3171.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Hvitsten</placeName>
+     <placeName ref="https://www.geonames.org/3151289/">Hvitsten</placeName>
      <date when="1911"/>
     </correspAction>
     <correspAction type="received">
@@ -11070,7 +11070,7 @@
    <correspDesc key="No-MM_N3172" ref="https://www.emunch.no/HYBRIDNo-MM_N3172.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1904-12-09"/>
     </correspAction>
     <correspAction type="received">
@@ -11098,7 +11098,7 @@
    <correspDesc key="No-MM_N3175" ref="https://www.emunch.no/HYBRIDNo-MM_N3175.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Lübeck</placeName>
+     <placeName ref="https://www.geonames.org/2875601/">Lübeck</placeName>
      <date when="1904-12-09"/>
     </correspAction>
     <correspAction type="received">
@@ -11108,7 +11108,7 @@
    <correspDesc key="No-MM_N3176" ref="https://www.emunch.no/HYBRIDNo-MM_N3176.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-09-28"/>
     </correspAction>
     <correspAction type="received">
@@ -11181,7 +11181,7 @@
    <correspDesc key="No-MM_N3184" ref="https://www.emunch.no/HYBRIDNo-MM_N3184.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Hvitsten</placeName>
+     <placeName ref="https://www.geonames.org/3151289/">Hvitsten</placeName>
      <date when="1912-06-29"/>
     </correspAction>
     <correspAction type="received">
@@ -11227,7 +11227,7 @@
    <correspDesc key="No-MM_N3189" ref="https://www.emunch.no/HYBRIDNo-MM_N3189.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-08-01"/>
     </correspAction>
     <correspAction type="received">
@@ -11255,7 +11255,7 @@
    <correspDesc key="No-MM_N3192" ref="https://www.emunch.no/HYBRIDNo-MM_N3192.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-07-21"/>
     </correspAction>
     <correspAction type="received">
@@ -11274,7 +11274,7 @@
    <correspDesc key="No-MM_N3194" ref="https://www.emunch.no/HYBRIDNo-MM_N3194.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-05-30"/>
     </correspAction>
     <correspAction type="received">
@@ -11293,7 +11293,7 @@
    <correspDesc key="No-MM_N3196" ref="https://www.emunch.no/HYBRIDNo-MM_N3196.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Hvitsten</placeName>
+     <placeName ref="https://www.geonames.org/3151289/">Hvitsten</placeName>
      <date when="1912-11-11"/>
     </correspAction>
     <correspAction type="received">
@@ -11357,7 +11357,7 @@
    <correspDesc key="No-MM_N3203" ref="https://www.emunch.no/HYBRIDNo-MM_N3203.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Hvitsten</placeName>
+     <placeName ref="https://www.geonames.org/3151289/">Hvitsten</placeName>
      <date when="1912"/>
     </correspAction>
     <correspAction type="received">
@@ -11376,7 +11376,7 @@
    <correspDesc key="No-MM_N3205" ref="https://www.emunch.no/HYBRIDNo-MM_N3205.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1904-02-19"/>
     </correspAction>
     <correspAction type="received">
@@ -11386,7 +11386,7 @@
    <correspDesc key="No-MM_N3206" ref="https://www.emunch.no/HYBRIDNo-MM_N3206.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1904-02-14"/>
     </correspAction>
     <correspAction type="received">
@@ -11423,7 +11423,7 @@
    <correspDesc key="No-MM_N3210" ref="https://www.emunch.no/HYBRIDNo-MM_N3210.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1904-01-25"/>
     </correspAction>
     <correspAction type="received">
@@ -11523,7 +11523,7 @@
    <correspDesc key="No-MM_N3222" ref="https://www.emunch.no/HYBRIDNo-MM_N3222.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Kragerø</placeName>
+     <placeName ref="https://www.geonames.org/3149412/">Kragerø</placeName>
     </correspAction>
     <correspAction type="received">
      <persName ref="https://emunch.no/person.xhtml?id=pe257">Albert Kollmann</persName>
@@ -11602,7 +11602,7 @@
    <correspDesc key="No-MM_N3232" ref="https://www.emunch.no/HYBRIDNo-MM_N3232.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Kragerø</placeName>
+     <placeName ref="https://www.geonames.org/3149412/">Kragerø</placeName>
      <date when="1912-01-20"/>
     </correspAction>
     <correspAction type="received">
@@ -11629,7 +11629,7 @@
    <correspDesc key="No-MM_N3235" ref="https://www.emunch.no/HYBRIDNo-MM_N3235.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Halden</placeName>
+     <placeName ref="https://www.geonames.org/3154209/">Halden</placeName>
      <date when="1913-12-12"/>
     </correspAction>
     <correspAction type="received">
@@ -11729,7 +11729,7 @@
    <correspDesc key="No-MM_N3246" ref="https://www.emunch.no/HYBRIDNo-MM_N3246.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1933-09-26"/>
     </correspAction>
     <correspAction type="received">
@@ -11747,7 +11747,7 @@
    <correspDesc key="No-MM_N3251" ref="https://www.emunch.no/HYBRIDNo-MM_N3251.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-01-12"/>
     </correspAction>
     <correspAction type="received">
@@ -11810,7 +11810,7 @@
    <correspDesc key="No-MM_N3259" ref="https://www.emunch.no/HYBRIDNo-MM_N3259.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1909-04-14"/>
     </correspAction>
     <correspAction type="received">
@@ -11865,7 +11865,7 @@
    <correspDesc key="No-MM_N3265" ref="https://www.emunch.no/HYBRIDNo-MM_N3265.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Kragerø</placeName>
+     <placeName ref="https://www.geonames.org/3149412/">Kragerø</placeName>
      <date when="1909-07-14"/>
     </correspAction>
     <correspAction type="received">
@@ -11928,7 +11928,7 @@
    <correspDesc key="No-MM_N3272" ref="https://www.emunch.no/HYBRIDNo-MM_N3272.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Kragerø</placeName>
+     <placeName ref="https://www.geonames.org/3149412/">Kragerø</placeName>
      <date notAfter="1911" notBefore="1909"/>
     </correspAction>
     <correspAction type="received">
@@ -11938,7 +11938,7 @@
    <correspDesc key="No-MM_N3273" ref="https://www.emunch.no/HYBRIDNo-MM_N3273.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Kragerø</placeName>
+     <placeName ref="https://www.geonames.org/3149412/">Kragerø</placeName>
      <date notAfter="1912" notBefore="1910"/>
     </correspAction>
     <correspAction type="received">
@@ -11975,7 +11975,7 @@
    <correspDesc key="No-MM_N3277" ref="https://www.emunch.no/HYBRIDNo-MM_N3277.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-02-02"/>
     </correspAction>
     <correspAction type="received">
@@ -12098,7 +12098,7 @@
    <correspDesc key="No-MM_N3291" ref="https://www.emunch.no/HYBRIDNo-MM_N3291.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-10-03"/>
     </correspAction>
     <correspAction type="received">
@@ -12149,7 +12149,7 @@
    <correspDesc key="No-MM_N3298" ref="https://www.emunch.no/HYBRIDNo-MM_N3298.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1933-12-20"/>
     </correspAction>
     <correspAction type="received">
@@ -12159,7 +12159,7 @@
    <correspDesc key="No-MM_N3299" ref="https://www.emunch.no/HYBRIDNo-MM_N3299.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1936-12-20"/>
     </correspAction>
     <correspAction type="received">
@@ -12169,7 +12169,7 @@
    <correspDesc key="No-MM_N3300" ref="https://www.emunch.no/HYBRIDNo-MM_N3300.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1937-12-22"/>
     </correspAction>
     <correspAction type="received">
@@ -12197,7 +12197,7 @@
    <correspDesc key="No-MM_N3303" ref="https://www.emunch.no/HYBRIDNo-MM_N3303.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1940-12-19"/>
     </correspAction>
     <correspAction type="received">
@@ -12207,7 +12207,7 @@
    <correspDesc key="No-MM_N3304" ref="https://www.emunch.no/HYBRIDNo-MM_N3304.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1941-02-18"/>
     </correspAction>
     <correspAction type="received">
@@ -12217,7 +12217,7 @@
    <correspDesc key="No-MM_N3305" ref="https://www.emunch.no/HYBRIDNo-MM_N3305.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1941-12-17"/>
     </correspAction>
     <correspAction type="received">
@@ -12236,7 +12236,7 @@
    <correspDesc key="No-MM_N3307" ref="https://www.emunch.no/HYBRIDNo-MM_N3307.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1943-02-04"/>
     </correspAction>
     <correspAction type="received">
@@ -12321,7 +12321,7 @@
    <correspDesc key="No-MM_N3318" ref="https://www.emunch.no/HYBRIDNo-MM_N3318.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1896-04-09"/>
     </correspAction>
     <correspAction type="received">
@@ -12331,7 +12331,7 @@
    <correspDesc key="No-MM_N3319" ref="https://www.emunch.no/HYBRIDNo-MM_N3319.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1924-01-19"/>
     </correspAction>
     <correspAction type="received">
@@ -12341,7 +12341,7 @@
    <correspDesc key="No-MM_N3320" ref="https://www.emunch.no/HYBRIDNo-MM_N3320.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1933-12-22"/>
     </correspAction>
     <correspAction type="received">
@@ -12351,7 +12351,7 @@
    <correspDesc key="No-MM_N3321" ref="https://www.emunch.no/HYBRIDNo-MM_N3321.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-06-15"/>
     </correspAction>
     <correspAction type="received">
@@ -12361,7 +12361,7 @@
    <correspDesc key="No-MM_N3322" ref="https://www.emunch.no/HYBRIDNo-MM_N3322.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1907-04-19"/>
     </correspAction>
     <correspAction type="received">
@@ -12431,7 +12431,7 @@
    <correspDesc key="No-MM_N3329" ref="https://www.emunch.no/HYBRIDNo-MM_N3329.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1931-11-23"/>
     </correspAction>
     <correspAction type="received">
@@ -12441,7 +12441,7 @@
    <correspDesc key="No-MM_N3330" ref="https://www.emunch.no/HYBRIDNo-MM_N3330.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-01-01"/>
     </correspAction>
     <correspAction type="received">
@@ -12460,7 +12460,7 @@
    <correspDesc key="No-MM_N3332" ref="https://www.emunch.no/HYBRIDNo-MM_N3332.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Bad Kösen</placeName>
+     <placeName ref="https://www.geonames.org/2953418/">Bad Kösen</placeName>
      <date when="1906-09-01"/>
     </correspAction>
     <correspAction type="received">
@@ -12470,7 +12470,7 @@
    <correspDesc key="No-MM_N3333" ref="https://www.emunch.no/HYBRIDNo-MM_N3333.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Ilmenau</placeName>
+     <placeName ref="https://www.geonames.org/2896514/">Ilmenau</placeName>
      <date when="1906"/>
     </correspAction>
     <correspAction type="received">
@@ -12516,7 +12516,7 @@
    <correspDesc key="No-MM_N3338" ref="https://www.emunch.no/HYBRIDNo-MM_N3338.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Bad Kösen</placeName>
+     <placeName ref="https://www.geonames.org/2953418/">Bad Kösen</placeName>
      <date when="1906-09-11"/>
     </correspAction>
     <correspAction type="received">
@@ -12526,7 +12526,7 @@
    <correspDesc key="No-MM_N3339" ref="https://www.emunch.no/HYBRIDNo-MM_N3339.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Bad Kösen</placeName>
+     <placeName ref="https://www.geonames.org/2953418/">Bad Kösen</placeName>
      <date when="1906-10-04"/>
     </correspAction>
     <correspAction type="received">
@@ -12545,7 +12545,7 @@
    <correspDesc key="No-MM_N3381" ref="https://www.emunch.no/HYBRIDNo-MM_N3381.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1926-04-08"/>
     </correspAction>
     <correspAction type="received">
@@ -12579,7 +12579,7 @@
    <correspDesc key="No-MM_N3384" ref="https://www.emunch.no/HYBRIDNo-MM_N3384.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1926-04-18"/>
     </correspAction>
     <correspAction type="received">
@@ -12589,7 +12589,7 @@
    <correspDesc key="No-MM_N3385" ref="https://www.emunch.no/HYBRIDNo-MM_N3385.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1926-04-21"/>
     </correspAction>
     <correspAction type="received">
@@ -12599,7 +12599,7 @@
    <correspDesc key="No-MM_N3386" ref="https://www.emunch.no/HYBRIDNo-MM_N3386.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1926-04-25"/>
     </correspAction>
     <correspAction type="received">
@@ -12609,7 +12609,7 @@
    <correspDesc key="No-MM_N3387" ref="https://www.emunch.no/HYBRIDNo-MM_N3387.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1926-04-27"/>
     </correspAction>
     <correspAction type="received">
@@ -12619,7 +12619,7 @@
    <correspDesc key="No-MM_N3388" ref="https://www.emunch.no/HYBRIDNo-MM_N3388.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1926-05-13"/>
     </correspAction>
     <correspAction type="received">
@@ -12638,7 +12638,7 @@
    <correspDesc key="No-MM_N3390" ref="https://www.emunch.no/HYBRIDNo-MM_N3390.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Wiesbaden</placeName>
+     <placeName ref="https://www.geonames.org/2809346/">Wiesbaden</placeName>
      <date when="1926-06-10"/>
     </correspAction>
     <correspAction type="received">
@@ -12651,7 +12651,7 @@
    <correspDesc key="No-MM_N3391" ref="https://www.emunch.no/HYBRIDNo-MM_N3391.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1928-03-29"/>
     </correspAction>
     <correspAction type="received">
@@ -12763,7 +12763,7 @@
    <correspDesc key="No-MM_N3492" ref="https://www.emunch.no/HYBRIDNo-MM_N3492.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Vestre Aker</placeName>
+     <placeName ref="https://www.geonames.org/6940980/">Vestre Aker</placeName>
      <date when="1943-12-12"/>
     </correspAction>
     <correspAction type="received">
@@ -12773,7 +12773,7 @@
    <correspDesc key="No-MM_N3493" ref="https://www.emunch.no/HYBRIDNo-MM_N3493.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Le Havre</placeName>
+     <placeName ref="https://www.geonames.org/3003796">Le Havre</placeName>
      <date when="1890-12-22"/>
     </correspAction>
     <correspAction type="received">
@@ -12783,7 +12783,7 @@
    <correspDesc key="No-MM_N3495" ref="https://www.emunch.no/HYBRIDNo-MM_N3495.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Bad Kösen</placeName>
+     <placeName ref="https://www.geonames.org/2953418/">Bad Kösen</placeName>
      <date when="1906-12"/>
     </correspAction>
     <correspAction type="received">
@@ -12841,7 +12841,7 @@
    <correspDesc key="No-MM_N3502" ref="https://www.emunch.no/HYBRIDNo-MM_N3502.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1939-05-08"/>
     </correspAction>
     <correspAction type="received">
@@ -12854,7 +12854,7 @@
    <correspDesc key="No-MM_N3503" ref="https://www.emunch.no/HYBRIDNo-MM_N3503.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1939-05-02"/>
     </correspAction>
     <correspAction type="received">
@@ -13032,7 +13032,7 @@
    <correspDesc key="PN0006" ref="https://www.emunch.no/HYBRIDPN0006.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1932-09-09"/>
     </correspAction>
     <correspAction type="received">
@@ -14453,7 +14453,7 @@
    <correspDesc key="No-MM_N3514" ref="https://www.emunch.no/HYBRIDNo-MM_N3514.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Kragerø</placeName>
+     <placeName ref="https://www.geonames.org/3149412/">Kragerø</placeName>
      <date when="1909-07-18"/>
     </correspAction>
     <correspAction type="received">
@@ -14549,7 +14549,7 @@
    <correspDesc key="PN0185" ref="https://www.emunch.no/HYBRIDPN0185.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1901-12-20"/>
     </correspAction>
     <correspAction type="received">
@@ -14559,7 +14559,7 @@
    <correspDesc key="PN0186" ref="https://www.emunch.no/HYBRIDPN0186.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1902-02-07"/>
     </correspAction>
     <correspAction type="received">
@@ -14569,7 +14569,7 @@
    <correspDesc key="PN0187" ref="https://www.emunch.no/HYBRIDPN0187.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1902-03-18"/>
     </correspAction>
     <correspAction type="received">
@@ -14588,7 +14588,7 @@
    <correspDesc key="PN0189" ref="https://www.emunch.no/HYBRIDPN0189.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Bad Elgersburg</placeName>
+     <placeName ref="https://www.geonames.org/2931171/">Bad Elgersburg</placeName>
      <date when="1905-12-02"/>
     </correspAction>
     <correspAction type="received">
@@ -14607,7 +14607,7 @@
    <correspDesc key="PN0191" ref="https://www.emunch.no/HYBRIDPN0191.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1902-07-18"/>
     </correspAction>
     <correspAction type="received">
@@ -14677,7 +14677,7 @@
    <correspDesc key="PN0909" ref="https://www.emunch.no/HYBRIDPN0909.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Le Havre</placeName>
+     <placeName ref="https://www.geonames.org/3003796">Le Havre</placeName>
      <date when="1896-12"/>
     </correspAction>
     <correspAction type="received">
@@ -14882,7 +14882,7 @@
    <correspDesc key="PN0223" ref="https://www.emunch.no/HYBRIDPN0223.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1933-12-28"/>
     </correspAction>
     <correspAction type="received">
@@ -14892,7 +14892,7 @@
    <correspDesc key="PN0224" ref="https://www.emunch.no/HYBRIDPN0224.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-05-20"/>
     </correspAction>
     <correspAction type="received">
@@ -14902,7 +14902,7 @@
    <correspDesc key="PN0228" ref="https://www.emunch.no/HYBRIDPN0228.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-12-10"/>
     </correspAction>
     <correspAction type="received">
@@ -14912,7 +14912,7 @@
    <correspDesc key="PN0229" ref="https://www.emunch.no/HYBRIDPN0229.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-12-10"/>
     </correspAction>
     <correspAction type="received">
@@ -14931,7 +14931,7 @@
    <correspDesc key="PN0232" ref="https://www.emunch.no/HYBRIDPN0232.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1935-01-04"/>
     </correspAction>
     <correspAction type="received">
@@ -14941,7 +14941,7 @@
    <correspDesc key="PN0233" ref="https://www.emunch.no/HYBRIDPN0233.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1935-01-10"/>
     </correspAction>
     <correspAction type="received">
@@ -14951,7 +14951,7 @@
    <correspDesc key="PN0235" ref="https://www.emunch.no/HYBRIDPN0235.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1935-01-15"/>
     </correspAction>
     <correspAction type="received">
@@ -14979,7 +14979,7 @@
    <correspDesc key="PN0238" ref="https://www.emunch.no/HYBRIDPN0238.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1935-02-18"/>
     </correspAction>
     <correspAction type="received">
@@ -14989,7 +14989,7 @@
    <correspDesc key="PN0239" ref="https://www.emunch.no/HYBRIDPN0239.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1935-03-17"/>
     </correspAction>
     <correspAction type="received">
@@ -14999,7 +14999,7 @@
    <correspDesc key="PN0240" ref="https://www.emunch.no/HYBRIDPN0240.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1935-08-28"/>
     </correspAction>
     <correspAction type="received">
@@ -15027,7 +15027,7 @@
    <correspDesc key="PN0243" ref="https://www.emunch.no/HYBRIDPN0243.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1936-08-02"/>
     </correspAction>
     <correspAction type="received">
@@ -15037,7 +15037,7 @@
    <correspDesc key="PN0244" ref="https://www.emunch.no/HYBRIDPN0244.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1936-09-19"/>
     </correspAction>
     <correspAction type="received">
@@ -15047,7 +15047,7 @@
    <correspDesc key="PN0245" ref="https://www.emunch.no/HYBRIDPN0245.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1936-10-07"/>
     </correspAction>
     <correspAction type="received">
@@ -15057,7 +15057,7 @@
    <correspDesc key="PN0246" ref="https://www.emunch.no/HYBRIDPN0246.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1939-05-01"/>
     </correspAction>
     <correspAction type="received">
@@ -15067,7 +15067,7 @@
    <correspDesc key="PN0247" ref="https://www.emunch.no/HYBRIDPN0247.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1933-12"/>
     </correspAction>
     <correspAction type="received">
@@ -15095,7 +15095,7 @@
    <correspDesc key="PN0250" ref="https://www.emunch.no/HYBRIDPN0250.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1911-08-01"/>
     </correspAction>
     <correspAction type="received">
@@ -15141,7 +15141,7 @@
    <correspDesc key="PN0256" ref="https://www.emunch.no/HYBRIDPN0256.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1938-04-11"/>
     </correspAction>
     <correspAction type="received">
@@ -15169,7 +15169,7 @@
    <correspDesc key="PN0259" ref="https://www.emunch.no/HYBRIDPN0259.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1934-01-13"/>
     </correspAction>
     <correspAction type="received">
@@ -15215,7 +15215,7 @@
    <correspDesc key="PN0264" ref="https://www.emunch.no/HYBRIDPN0264.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1892-11-11"/>
     </correspAction>
     <correspAction type="received">
@@ -15234,7 +15234,7 @@
    <correspDesc key="PN0266" ref="https://www.emunch.no/HYBRIDPN0266.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1896-06-29"/>
     </correspAction>
     <correspAction type="received">
@@ -15244,7 +15244,7 @@
    <correspDesc key="PN0267" ref="https://www.emunch.no/HYBRIDPN0267.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1896-07-25"/>
     </correspAction>
     <correspAction type="received">
@@ -15263,7 +15263,7 @@
    <correspDesc key="PN0269" ref="https://www.emunch.no/HYBRIDPN0269.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Bad Kösen</placeName>
+     <placeName ref="https://www.geonames.org/2953418/">Bad Kösen</placeName>
      <date when="1906-03-19"/>
     </correspAction>
     <correspAction type="received">
@@ -15407,7 +15407,7 @@
    <correspDesc key="PN0289" ref="https://www.emunch.no/HYBRIDPN0289.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-09-29"/>
     </correspAction>
     <correspAction type="received">
@@ -15487,7 +15487,7 @@
    <correspDesc key="PN0298" ref="https://www.emunch.no/HYBRIDPN0298.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1927-12-22"/>
     </correspAction>
     <correspAction type="received">
@@ -15532,7 +15532,7 @@
    <correspDesc key="PN0303" ref="https://www.emunch.no/HYBRIDPN0303.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1884-12-14"/>
     </correspAction>
     <correspAction type="received">
@@ -15551,7 +15551,7 @@
    <correspDesc key="PN0305" ref="https://www.emunch.no/HYBRIDPN0305.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1926-08-18"/>
     </correspAction>
     <correspAction type="received">
@@ -15588,7 +15588,7 @@
    <correspDesc key="PN0309" ref="https://www.emunch.no/HYBRIDPN0309.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1942-11-30"/>
     </correspAction>
     <correspAction type="received">
@@ -15598,7 +15598,7 @@
    <correspDesc key="PN0310" ref="https://www.emunch.no/HYBRIDPN0310.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1942-12-07"/>
     </correspAction>
     <correspAction type="received">
@@ -15662,7 +15662,7 @@
    <correspDesc key="PN0318" ref="https://www.emunch.no/HYBRIDPN0318.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1931-05-15"/>
     </correspAction>
     <correspAction type="received">
@@ -15690,7 +15690,7 @@
    <correspDesc key="PN0320" ref="https://www.emunch.no/HYBRIDPN0320.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1936-12-23"/>
     </correspAction>
     <correspAction type="received">
@@ -15709,7 +15709,7 @@
    <correspDesc key="PN0323" ref="https://www.emunch.no/HYBRIDPN0323.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1940-12-21"/>
     </correspAction>
     <correspAction type="received">
@@ -15728,7 +15728,7 @@
    <correspDesc key="PN0325" ref="https://www.emunch.no/HYBRIDPN0325.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1942-12-17"/>
     </correspAction>
     <correspAction type="received">
@@ -15738,7 +15738,7 @@
    <correspDesc key="PN0326" ref="https://www.emunch.no/HYBRIDPN0326.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1943-06-10"/>
     </correspAction>
     <correspAction type="received">
@@ -15793,7 +15793,7 @@
    <correspDesc key="PN0332" ref="https://www.emunch.no/HYBRIDPN0332.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1930-12-23"/>
     </correspAction>
     <correspAction type="received">
@@ -19185,7 +19185,7 @@
    <correspDesc key="PN0709" ref="https://www.emunch.no/HYBRIDPN0709.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-10-17"/>
     </correspAction>
     <correspAction type="received">
@@ -19195,7 +19195,7 @@
    <correspDesc key="PN0710" ref="https://www.emunch.no/HYBRIDPN0710.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-10-27"/>
     </correspAction>
     <correspAction type="received">
@@ -19205,7 +19205,7 @@
    <correspDesc key="PN0711" ref="https://www.emunch.no/HYBRIDPN0711.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-11-12"/>
     </correspAction>
     <correspAction type="received">
@@ -19215,7 +19215,7 @@
    <correspDesc key="PN0712" ref="https://www.emunch.no/HYBRIDPN0712.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-12-28"/>
     </correspAction>
     <correspAction type="received">
@@ -19261,7 +19261,7 @@
    <correspDesc key="PN0717" ref="https://www.emunch.no/HYBRIDPN0717.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1909-02-15"/>
     </correspAction>
     <correspAction type="received">
@@ -19316,7 +19316,7 @@
    <correspDesc key="PN0723" ref="https://www.emunch.no/HYBRIDPN0723.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1909-03-13"/>
     </correspAction>
     <correspAction type="received">
@@ -19344,7 +19344,7 @@
    <correspDesc key="PN0726" ref="https://www.emunch.no/HYBRIDPN0726.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1909-04-05"/>
     </correspAction>
     <correspAction type="received">
@@ -19435,7 +19435,7 @@
    <correspDesc key="PN0737" ref="https://www.emunch.no/HYBRIDPN0737.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1912-06-02"/>
     </correspAction>
     <correspAction type="received">
@@ -19472,7 +19472,7 @@
    <correspDesc key="PN0742" ref="https://www.emunch.no/HYBRIDPN0742.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Paris</placeName>
+     <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
      <date when="1926-06-13"/>
     </correspAction>
     <correspAction type="received">
@@ -19482,7 +19482,7 @@
    <correspDesc key="PN0743" ref="https://www.emunch.no/HYBRIDPN0743.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Verdun</placeName>
+     <placeName ref="https://www.geonames.org/2969958/">Verdun</placeName>
      <date when="1926-10-17"/>
     </correspAction>
     <correspAction type="received">
@@ -19600,7 +19600,7 @@
    <correspDesc key="PN0756" ref="https://www.emunch.no/HYBRIDPN0756.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1933-12-20"/>
     </correspAction>
     <correspAction type="received">
@@ -19636,7 +19636,7 @@
    <correspDesc key="PN0760" ref="https://www.emunch.no/HYBRIDPN0760.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1933-12"/>
     </correspAction>
     <correspAction type="received">
@@ -19691,7 +19691,7 @@
    <correspDesc key="PN0766" ref="https://www.emunch.no/HYBRIDPN0766.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when=" 1903"/>
     </correspAction>
     <correspAction type="received">
@@ -19701,7 +19701,7 @@
    <correspDesc key="PN0767" ref="https://www.emunch.no/HYBRIDPN0767.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1903"/>
     </correspAction>
     <correspAction type="received">
@@ -19738,7 +19738,7 @@
    <correspDesc key="PN0771" ref="https://www.emunch.no/HYBRIDPN0771.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Le Havre</placeName>
+     <placeName ref="https://www.geonames.org/3003796">Le Havre</placeName>
      <date when="1890-12-12"/>
     </correspAction>
     <correspAction type="received">
@@ -19748,7 +19748,7 @@
    <correspDesc key="PN0772" ref="https://www.emunch.no/HYBRIDPN0772.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Nice</placeName>
+     <placeName ref="https://www.geonames.org/2990440/">Nice</placeName>
      <date when="1891-01-26"/>
     </correspAction>
     <correspAction type="received">
@@ -19758,7 +19758,7 @@
    <correspDesc key="PN0773" ref="https://www.emunch.no/HYBRIDPN0773.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1930"/>
     </correspAction>
     <correspAction type="received">
@@ -19768,7 +19768,7 @@
    <correspDesc key="PN0774" ref="https://www.emunch.no/HYBRIDPN0774.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1892-07-09"/>
     </correspAction>
     <correspAction type="received">
@@ -19778,7 +19778,7 @@
    <correspDesc key="PN0776" ref="https://www.emunch.no/HYBRIDPN0776.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>København</placeName>
+     <placeName ref="https://www.geonames.org/2618425/">København</placeName>
      <date when="1908-10-27"/>
     </correspAction>
     <correspAction type="received">
@@ -20780,7 +20780,7 @@
    <correspDesc key="PN0904" ref="https://www.emunch.no/HYBRIDPN0904.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Åsgårdstrand</placeName>
+     <placeName ref="https://www.geonames.org/3162682/">Åsgårdstrand</placeName>
      <date when="1904-09-18"/>
     </correspAction>
     <correspAction type="received">
@@ -21553,7 +21553,7 @@
    <correspDesc key="No-MM_N3679" ref="https://www.emunch.no/HYBRIDNo-MM_N3679.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Berlin</placeName>
+     <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
      <date when="1893-03-16"/>
     </correspAction>
     <correspAction type="received">
@@ -22826,7 +22826,7 @@
    <correspDesc key="PN1134" ref="https://www.emunch.no/HYBRIDPN1134.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1927-01-18"/>
     </correspAction>
     <correspAction type="received">
@@ -23644,7 +23644,7 @@
    <correspDesc key="PN1237" ref="https://www.emunch.no/HYBRIDPN1237.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1937-06-10"/>
     </correspAction>
     <correspAction type="received">
@@ -23702,7 +23702,7 @@
    <correspDesc key="No-MM_N0395" ref="https://www.emunch.no/HYBRIDNo-MM_N0395.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Oslo</placeName>
+     <placeName ref="https://www.geonames.org/3143244/">Oslo</placeName>
      <date when="1918-09"/>
     </correspAction>
     <correspAction type="received">
@@ -23720,7 +23720,7 @@
    <correspDesc key="PN1242" ref="https://www.emunch.no/HYBRIDPN1242.xhtml" source="#d6068509-4e36-4ea7-a5da-0241b8a62cd1">
     <correspAction type="sent">
      <persName ref="https://viaf.org/viaf/61624802/">Edvard Munch</persName>
-     <placeName>Hvitsten</placeName>
+     <placeName ref="https://www.geonames.org/3151289/">Hvitsten</placeName>
      <date when="1911-01-21"/>
     </correspAction>
     <correspAction type="received">
