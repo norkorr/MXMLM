@@ -1,4 +1,4 @@
-# MunchXMLMuncher 2.0.3
+# MunchXMLMuncher 2.0.5
 Developed by research assistant Loke Sjølie for the University of Oslo
 
 [![DOI](https://zenodo.org/badge/587295065.svg)](https://zenodo.org/badge/latestdoi/587295065)
